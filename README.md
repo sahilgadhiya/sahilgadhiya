@@ -15,10 +15,10 @@
 
 ### 🚀 About Me
 
-- 🔭 Software Engineer at **Opash Software** — building responsive, scalable web apps
+- 🔭 Software Engineer at **Opash Software** - building responsive, scalable web apps
 - 💡 1.5+ years of experience across **React.js, Next.js, JavaScript & TypeScript**
 - 🛠️ Comfortable end-to-end: React/Next.js frontend, Node.js/Express backend, MongoDB/PostgreSQL
-- 🎯 Open to full-stack / frontend opportunities — feel free to reach out!
+- 🎯 Open to full-stack / frontend opportunities - feel free to reach out!
 - 📫 Reach me at **sahilgadhiya5261@gmail.com**
 
 ---
